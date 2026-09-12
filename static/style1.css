@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+#text{
+    font-family: cursive;
+    font-size: 64px;
+    font-weight: bold;
+    color: lavenderblush;
+    display: flex;
+    justify-content: center;
+    align-items: cenetr;
+}
